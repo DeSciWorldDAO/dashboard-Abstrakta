@@ -7,7 +7,7 @@
 "gallery":[{
        "name": "Intro",
        "description": "Intro",
-       "mediaUrl": "https://www.youtube.com/watch?v=EjdVydCqJHc",
+       "mediaUrl": "https://www.youtube.com/embed/EjdVydCqJHc",
        "source": "youtube",
        "link": "https://www.youtube.com/watch?v=EjdVydCqJHc"
    }
@@ -17,7 +17,7 @@
 "twitterHandle":"abstrakta_world",
 "coingeckoId":"",
 "snapshotId":"",
-"logo":"https://abstrakta.org/wp-content/uploads/2022/04/cropped-cropped-A-94802_SK_KKK_1-01-270x270.png",
+"logo":"https://i.imgur.com/I1UDf2G.jpg",
 "telegramLink":"",
 "discordLink":"",
 "website":"https://abstrakta.org/",
