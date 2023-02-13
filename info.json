@@ -1,1 +1,30 @@
+{"name":"Abstrakta",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description":"Abstrakta is a dissemination and sharing platform for the upcycling of multidisciplinary, near-time pre-publication research. We turn unused academic research into licensable (non-transferable) NFTs. It’s for everyone– from academics to commercial entities to independent researchers. Abstrakta’s users can share their near-time portfolio and allow for their research “leftovers” to be used in other publications and/or licensed for commercial use, all while being cited for their work and growing their professional reputation. Abstrakta runs on open-source and decentralized principles and it has built-in exploitation resistance through several mechanisms including a dispute resolution protocol and meta and community level governance in which all users have a vote. ",
+"whitePaperLink":"https://abstrakta.org",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://www.youtube.com/watch?v=EjdVydCqJHc",
+       "source": "youtube",
+       "link": "https://www.youtube.com/watch?v=EjdVydCqJHc"
+   }
+],
+"deleted":false,
+"primaryColor":"#0c72e8",
+"twitterHandle":"abstrakta_world",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://abstrakta.org/wp-content/uploads/2022/04/cropped-cropped-A-94802_SK_KKK_1-01-270x270.png",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://abstrakta.org/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+
+"tags":["NFTs", "Ecosystems"]
+  
+}
 
